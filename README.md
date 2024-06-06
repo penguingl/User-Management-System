@@ -1,4 +1,3 @@
-
 # User Management System
 
 ## Overview
@@ -91,7 +90,7 @@ Records and retrieves user actions (create and update events) from Kafka.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/penguingl/User-Management-System.git
-   cd User-Management-System
+   cd user-management-system
    ```
 
 ## Install and setup Zookeeper
@@ -166,7 +165,7 @@ Records and retrieves user actions (create and update events) from Kafka.
 
 1. **Navigate to the user service directory**:
    ```bash
-   cd user-service
+   cd user_service
    ```
 
 2. **Install dependencies**:
@@ -183,7 +182,7 @@ Records and retrieves user actions (create and update events) from Kafka.
 
 1. **Navigate to the history service directory**:
    ```bash
-   cd history-service
+   cd history_service
    ```
 
 2. **Install dependencies**:
